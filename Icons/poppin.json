@@ -2,6 +2,6 @@
   "name": "fmz200图标订阅"
   "icons": [
     {
-      "name": "brd",
+      "name": "brd"，
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/airport/brd.png"
-    },
+    }，
